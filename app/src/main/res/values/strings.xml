@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WebCrawler</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_image_list_item">Details </string>
+    <string name="imageDescription">Description: </string>
+    <string name="imageBlogSource">Source blog: </string>
+    <string name="imageNotes">Rating: </string>
+    <string name="Rating">Rating:</string>
+</resources>
